@@ -1,5 +1,7 @@
 import { useState, useEffect } from "react";
 import { NavBar, Container } from "react-bootstrap";
+// import images here as objects so source link doesnt need to be used below
+//import logo from '../assets/img/logo.svg';
 
 // create functional component
 
@@ -25,7 +27,7 @@ export const NavBar = () => {
     const onUpdateActiveLink = (value) => {
         setActiveLink(value);
     }
-    
+
     return (
         <Navbar expand="lg" className={scolled ? "scrolled": ""}>
       <Container>
