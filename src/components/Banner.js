@@ -59,7 +59,7 @@ export const Banner = () => {
           <Col xs={12} md={6} xl={5}>
             <h1>Hi, I'm Sam...</h1>
             <h2>...and this is Sunny. Welcome to my portfolio.</h2>
-            <p>A bit about me. I have studied Art, Design, Creative Writing, which led to careers in art, design, marketing and teaching. My latest adventure is within the world of coding, and this is me at the beginning of my development career. See my projects, resume and contact details below.</p>
+            <p>A bit about me. I have studied Art, Design, Creative Writing, which led to careers in art, design, marketing and teaching. As a life-long learner, my latest adventure is within the world of coding, and this is me at the beginning of my development career, with the intention to create applications within the education technology space. See my projects, resume and contact details below.</p>
             </Col> 
         </Row>
       </Container>

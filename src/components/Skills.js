@@ -41,7 +41,7 @@ export const Skills = () => {
                         <ul>2021: The University of Melbourne, Microcert, Women and AI</ul>
                         <ul>2017-2018: The University of Melbourne, Masters of Teaching (Secondary)</ul>
                         <ul>2003-2007: The University of Melbourne, Bachelor of Arts / Diploma of Creative Arts</ul>
-                        <a href="#">Another Link</a>
+                        <a href="#">Download CV</a>
                     </div>
                 </div>
             </div>

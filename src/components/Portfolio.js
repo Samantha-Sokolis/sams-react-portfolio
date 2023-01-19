@@ -52,7 +52,7 @@ export const Portfolio = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Portfolio</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>These projects demonstrate experience and skills in the following areas: React.js, progressive web applications, MERN, NoSql, MySql, MVC framework, ORM, Express.js, CSS, JavaScript and HTML and Git. </p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   
                   <Tab.Content id="slideInUp" className={isVisible ? "animate__animated animate__slideInUp" : ""}>
