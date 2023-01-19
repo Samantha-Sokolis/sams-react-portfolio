@@ -54,19 +54,13 @@ export const Banner = () => {
       <Container> {/* Bootsrap containter starts */} 
         <Row className="aligh-items-center">
           <Col xs={12} md={6} xl={7}>
-            <TrackVisibility>
-              {({ isVisible }) =>
-              <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <p> {`Hi! I'm Sam`}</p><h1><span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer", "Illustrator" ]'><span className="wrap">{text}</span></span></h1>
-                  <h2>Welcome to my portfolio</h2>
-                  <p>Intro paragraph here</p>
-                  <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
-              </div>}
-            </TrackVisibility>
-          </Col> 
-          <Col xs={12} md={6} xl={5}>
             <img src={headerImg} alt="Header Img"/>
           </Col>
+          <Col xs={12} md={6} xl={5}>
+            <h1>Hi, I'm Sam...</h1>
+            <h2>...and this is Sunny. Welcome to my portfolio.</h2>
+            <p>A bit about me. I have studied Art, Design, Creative Writing, which led to careers in art, design, marketing and teaching. My latest adventure is within the world of coding, and this is me at the beginning of my development career. See my projects, resume and contact details below.</p>
+            </Col> 
         </Row>
       </Container>
     </section>
