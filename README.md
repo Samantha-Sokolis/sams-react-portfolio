@@ -9,7 +9,8 @@ A portfolio built using React and Bootstrap, featuring About, Resume, Projects a
 ## Links
 GitHub: https://github.com/Samantha-Sokolis/sams-react-portfolio
 
-Deployed application:
+Deployed application: https://samantha-sokolis.github.io/sams-react-portfolio/
+
 
 ## Scripts
 
