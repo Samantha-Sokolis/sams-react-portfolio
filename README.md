@@ -31,3 +31,5 @@ https://reactjs.org/
 
 This tutorial was used as a guide for this project: 
 https://www.youtube.com/watch?v=hYv6BM2fWd8&list=PLXd5BiFs-yczzOljI6t3obaH2jQIWk-uU&index=19&t=1799s
+
+https://github.com/gitname/react-gh-pages
